@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **JAVA, Python, C, Apache, mysql, php, Perl (XAMPP), JavaScript, React.js, Node.js, Express, Mongoose (MERN), UNIX**
 
-- 📫 How to reach me **info@joelgeorge.dev**
+- 📫 How to reach me **connect@joelgeorge.dev**
 
 - 📄 Know about my experiences [joelgeorge.dev/resume](joelgeorge.dev/resume)
 
