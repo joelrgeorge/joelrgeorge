@@ -40,4 +40,3 @@
 <a href="https://www.hackerrank.com/@georgejoel955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@georgejoel955" height="30" width="40" /></a>
 <a href="/blog.liegedevs.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="blog.liegedevs.com" height="30" width="40" /></a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joelrgeorge&show_icons=true&locale=en" alt="joelrgeorge" /></p>
