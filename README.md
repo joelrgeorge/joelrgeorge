@@ -12,7 +12,7 @@
 <h1 align="center">Hello there 👋 Myself, Joel R. George</h1>
 <h3 align="center">Code Craftsman and Passionate Problem Solver.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" />
 
 🔭 I’m currently working on **FormSwift**
 
