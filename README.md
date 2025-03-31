@@ -14,21 +14,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-- 🔭 I’m currently working on **FormSwift**
+🔭 I’m currently working on **FormSwift**
 
-- 🌱 I’m currently learning **C#, .NET Framework**
+🌱 I’m currently learning **C#, .NET Framework**
 
-- 👨‍💻 All of my projects are available at [joelgeorge.dev](joelgeorge.dev)
+👨‍💻 All of my projects are available at [joelgeorge.dev](joelgeorge.dev)
 
-- 📝 I regularly write articles on [blog.liegedevs.com](blog.liegedevs.com)
+📝 I regularly write articles on [blog.liegedevs.com](blog.liegedevs.com)
 
-- 💬 Ask me about **C, C++, JavaScript, React.js, Node.js, Express, Mongoose (MERN), UNIX**
+💬 Ask me about **C, C++, JavaScript, React.js, Node.js, Express, Mongoose (MERN), UNIX**
 
-- 📫 How to reach me **connect@joelgeorge.dev**
+📫 How to reach me **connect@joelgeorge.dev**
 
-- 📄 Know about my experiences [joelgeorge.dev/resume](joelgeorge.dev/resume)
+📄 Know about my experiences [joelgeorge.dev/resume](joelgeorge.dev/resume)
 
-- ⚡ Fun fact **I just vibe with code ✍️**
+⚡ Fun fact **I just vibe with code ✍️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
