@@ -10,13 +10,11 @@
 </html>
 
 <h1 align="center">Hello there 👋 Myself, Joel R. George</h1>
-<h3 align="center">Code Craftsman and Passionate Problem Solver.</h3>
+<h3 align="center">A passionate developer and tech enthusiast.</h3>
 
 <img align="right" alt="gif" width="400" src="https://raw.githubusercontent.com/joelrgeorge/joelrgeorge/main/octocat-1743417221940.png" />
 
-🔭 I’m currently working on **FormSwift**
-
-🌱 I’m currently learning **C#, .NET Framework**
+🔭 I’m currently working on **LiegeHost-Hosting-Reseller-App**
 
 👨‍💻 All of my projects are available at [joelgeorge.dev](joelgeorge.dev)
 
@@ -25,10 +23,6 @@
 💬 Ask me about **C, C++, JavaScript, React.js, Node.js, Express, Mongoose (MERN), UNIX**
 
 📫 How to reach me **connect@joelgeorge.dev**
-
-📄 Know about my experiences [joelgeorge.dev/resume](joelgeorge.dev/resume)
-
-⚡ Fun fact **I just vibe with code ✍️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
