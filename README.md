@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [blog.liegedevs.com](blog.liegedevs.com)
 
-- 💬 Ask me about **JAVA, Python, C, Apache, mysql, php, Perl (XAMPP), JavaScript, React.js, Node.js, Express, Mongoose (MERN), UNIX**
+- 💬 Ask me about **C, C++, JavaScript, React.js, Node.js, Express, Mongoose (MERN), UNIX**
 
 - 📫 How to reach me **connect@joelgeorge.dev**
 
