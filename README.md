@@ -14,7 +14,7 @@
 
 ![Metrics](https://raw.githubusercontent.com/joelrgeorge/joelrgeorge/main/github-metrics.svg)
 
-<img align="right" alt="gif" width="400" src="https://raw.githubusercontent.com/joelrgeorge/joelrgeorge/main/octocat-1743417221940.png" />
+<img align="right" alt="gif" width="400" src="https://raw.githubusercontent.com/joelrgeorge/joelrgeorge/main/octocat.png" />
 
 🔭 I’m currently working on **LiegeHost-Hosting-Reseller-App**
 
