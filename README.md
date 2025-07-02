@@ -1,34 +1,68 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <img src="https://i.imgur.com/eXYHCcg.gif" alt="Banner" width="100%">
-</body>
-</html>
+<!-- Banner -->
+<img src="https://i.imgur.com/eXYHCcg.gif" alt="Banner" width="100%" />
 
-<h1 align="center">Hello there 👋 Myself, Joel R. George</h1>
-<h3 align="center">A passionate developer and tech enthusiast.</h3>
+<h1 align="center">Joel R. George</h1>
+<h3 align="center">Developer | Technologist | MERN Stack Enthusiast</h3>
 
-![Metrics](https://raw.githubusercontent.com/joelrgeorge/joelrgeorge/main/github-metrics.svg)
-
-<img align="right" alt="gif" width="400" src="https://raw.githubusercontent.com/joelrgeorge/joelrgeorge/main/octocat.png" />
-
-🔭 I’m currently working on **LiegeHost-Hosting-Reseller-App**
-
-👨‍💻 All of my projects are available at [joelgeorge.dev](joelgeorge.dev)
-
-📝 I regularly write articles on [blog.liegedevs.com](blog.liegedevs.com)
-
-💬 Ask me about **C, C++, JavaScript, React.js, Node.js, Express, Mongoose (MERN), UNIX**
-
-📫 How to reach me **connect@joelgeorge.dev**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/joe_george_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joe_george_01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@georgejoel955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@georgejoel955" height="30" width="40" /></a>
-<a href="/blog.liegedevs.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="blog.liegedevs.com" height="30" width="40" /></a>
+<!-- GitHub Metrics -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joelrgeorge/joelrgeorge/main/github-metrics.svg" alt="GitHub Stats" width="80%" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science enthusiast with a strong foundation in **programming**, **web development**, and **system-level thinking**.
+- 🔭 Currently developing **LiegeHost** – a hosting and domain reselling app built with the **MERN stack**.
+- ✍️ I write technical articles and share development insights at [blog.liegedevs.com](https://blog.liegedevs.com)
+- 🌐 Portfolio: [joelgeorge.dev](https://joelgeorge.dev)
+- 📬 Email: [connect@joelgeorge.dev](mailto:connect@joelgeorge.dev)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** C, C++, JavaScript
+- **Frameworks/Libraries:** React.js, Node.js, Express.js
+- **Databases:** MongoDB
+- **Tools & OS:** Git, GitHub, UNIX/Linux, Postman
+
+---
+
+## 📚 Projects
+
+- **LiegeHost**  
+  A full-stack domain and hosting reselling platform with Enom and WHMCS API integration.
+
+- **Diffie-Hellman Key Exchange**  
+  Implementation of secure key exchange protocol in C++, demonstrating cryptographic handshake over an insecure channel.
+
+- **Banking App with Custom Ledger**  
+  A backend-intensive banking prototype using a self-designed ledger system for accurate and auditable transaction tracking.
+
+- **Domain CLI Utilities**  
+  A command-line tool for managing domain operations using Node.js, designed for server admins and devs.
+
+- **LLM Pretrained on Niche Dataset**  
+  Experimented with pretraining a lightweight language model on a domain-specific dataset, focusing on fine-tuned knowledge representation.
+
+---
+
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="https://instagram.com/joe_george_01" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
+  </a>
+  <a href="https://www.hackerrank.com/georgejoel955" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" />
+  </a>
+  <a href="https://blog.liegedevs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Blog" width="30" />
+  </a>
+</p>
+
+---
+
+> *“Simplicity is the soul of efficiency.” – Austin Freeman*
