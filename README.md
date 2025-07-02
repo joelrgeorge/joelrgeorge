@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/eXYHCcg.gif" alt="Banner" width="100%" />
 
 <h1 align="center">Joel R. George</h1>
-<h3 align="center">Developer | Technologist | MERN Stack Enthusiast</h3>
+<h3 align="center">Developer | Technologist </h3>
 
 <!-- GitHub Metrics -->
 <p align="center">
